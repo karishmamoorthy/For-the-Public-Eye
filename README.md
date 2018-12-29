@@ -4,6 +4,6 @@ Dear reader, this folder contains *some* of my best codes from the past year. So
 
 Assignment.2; Assignment.3 and Lab March 23rd - Clock -> From University-requisite Python coding course
 
-P323 1, 6, 8; P326 09 -> From Physics assignments
+P323 1, 6, 8; P326 09, Lab assignment -> From Physics assignments
 
 The rest are miscellaneous non-assignment-related projects
