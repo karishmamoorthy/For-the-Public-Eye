@@ -4,7 +4,6 @@ Dear reader, this folder contains *some* of my best codes from the past year. So
 
 
 From the University-requisite Python coding course:  
-
 .
 Assignment.2;  
 .
