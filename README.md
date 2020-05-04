@@ -1,6 +1,6 @@
 # Highlights
 
-Dear reader, this folder contains *some* of my best codes from the past year. Some of them are from a university-requisite Python coding course. Some of them are from Physics assignments I have had to do this year. The rest are my attempts at using Python to understand basic ideas - generally pertaining to Physics.
+Dear reader, this folder contains *some* of my best codes from my undergraduate studies at the University of Victoria. Some of them are from a university-requisite Python coding course. Some of them are from Physics assignments I have had to do this year. The rest are my attempts at using Python to understand basic ideas - generally pertaining to Physics.
 
 
 From the university-requisite Python coding course:  
